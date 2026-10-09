@@ -284,7 +284,7 @@
 
 # | `E` | Exit | 1 |
 
-# | `\~` | Thick ivy | 3 |
+# | `\\\~` | Thick ivy | 3 |
 
 # | `G` | Griever territory | 10 |
 
@@ -380,9 +380,7 @@
 
 # 
 
-# Developed as part of \*\*Artificial Intelligence — Mini Project 01: Escape the Maze\*\*.
+# Developed as part of \*\*Artificial Intelligence
 
-# 
 
-# The project is intended for educational purposes and demonstrates fundamental concepts in classical AI search.
 
