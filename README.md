@@ -268,14 +268,6 @@ python runner.py -l <maze> -a <algorithm> -q
 | A search hangs | Usually a state is being re-expanded. Check the explored set. The runner stops after 60 seconds (`--timeout`). |
 | IDS is very slow on `open_glade` | Expected. A wide, open maze makes IDS repeat a huge amount of work. |
 
-## 👥 Authors
-
-| Name | Student ID |
-|---|---|
-| _Your name_ | _ID_ |
-| _Partner's name_ | _ID_ |
-
-Group number: _N_
 
 ## 🎓 Academic Integrity
 
